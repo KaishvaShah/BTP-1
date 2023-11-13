@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Phan, Minh Son
+AU  - Baudrier, Étienne
+AU  - Mazo, Loïc
+AU  - Tajine, Mohamed
+PY  - 2017
+DA  - 2017/02/01
+TI  - Moment-Based Angular Difference Estimation Between Two Tomographic Projections in 2D and 3D
+JO  - Journal of Mathematical Imaging and Vision
+SP  - 164
+EP  - 182
+VL  - 57
+IS  - 2
+AB  - This paper introduces a new method for estimating the angular difference between two tomographic projections belonging to a set of projections taken at unknown directions in 2D and 3D. Our method relies on the projection neighbor selection in projection moment space, the calculation of the angular differences between these neighboring projections using moment properties and a projection moment neighborhood graph. The accuracy and the robustness of our method are shown on a test database including fifty 2D and 3D gray-level images at different resolutions and with different levels of noise.
+SN  - 1573-7683
+UR  - https://doi.org/10.1007/s10851-016-0673-5
+DO  - 10.1007/s10851-016-0673-5
+ID  - Phan2017
+ER  - 
